@@ -1,9 +1,9 @@
 # creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
-#### DEVELOPER: ADITHYA NM
-#### REG NO: 212225040011
-#### DATE: 24-08-2026
+### DEVELOPER: ADITHYA NM
+### REG NO: 212225040011
+### DATE: 24-08-2026
 
 # AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
@@ -64,26 +64,21 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 
 
 
-In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
+In windows IE, on giving the url http://10.113.53.195 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
 ## 8. OUTPUT
+<img width="1919" height="800" alt="Screenshot 2026-08-24 134022" src="https://github.com/user-attachments/assets/b50aacbf-1b25-480f-9649-d55005437d4b" />
+
 
 
 SET logs the information regarding the Google credentials:
 ## 9. OUTPUT
+<img width="1674" height="450" alt="Screenshot 2026-08-24 140252" src="https://github.com/user-attachments/assets/54cf9915-46a6-41c6-a478-59721f9c6998" />
 
 
 
 SET logs the information in the xml file under /root/.set directory:
 ## 10. OUTPUT
-
-
-
-
-
-
-
-
-
+<img width="1845" height="727" alt="Screenshot 2026-08-24 141200" src="https://github.com/user-attachments/assets/9ec1dc91-e7c2-4299-9fb0-136419e5d51e" />
 
 
 
