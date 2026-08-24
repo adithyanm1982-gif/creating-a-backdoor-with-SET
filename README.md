@@ -51,13 +51,13 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 5. It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 ## OUTPUT
-
+<img width="1096" height="495" alt="image" src="https://github.com/user-attachments/assets/1d2b6d08-95f5-4d74-9263-4c3a853d43df" />
 
 
 
 6. It shows the following screen in which the option Google can be selected:
 ## OUTPUT
-
+<img width="1082" height="782" alt="Screenshot 2026-08-24 143318" src="https://github.com/user-attachments/assets/48512f01-8f48-472b-aba5-8e61adcf902e" />
 
 
 
